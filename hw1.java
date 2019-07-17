@@ -6,7 +6,7 @@ import java.io.*;
 /**  A class that provides a main function to read five lines of a commercial
  *   Web page and print them in reverse order, given the name of a company.
  */
-
+//this is genesis 
 class OpenCommercial {
 
   /** Prompts the user for the name X of a company (a single string), opens
